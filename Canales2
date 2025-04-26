@@ -1,283 +1,457 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://example.com/epg.xml" cache="2000"
 
 #############################
 # CINE - HBO
 #############################
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://television-libre.online/img/hbo.webp" group-title="CINE",HBO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9666
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://television-libre.online/img/hbo2.webp" group-title="CINE",HBO 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9672
 
 #EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://tele-libre.org/img/hbofam.webp" group-title="CINE",HBO Family
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9676
 
 #EXTINF:-1 tvg-id="HBOMundi" tvg-logo="https://tele-libre.org/img/hbofam.webp" group-title="CINE",HBO Mundi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9682
 
 #EXTINF:-1 tvg-id="HBOPlus" tvg-logo="https://tele-libre.org/img/hboplus.webp" group-title="CINE",HBO Plus HDTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9685
 
 #EXTINF:-1 tvg-id="HBOPop" tvg-logo="https://tele-libre.org/img/hbopop.webp" group-title="CINE",HBO POP HDTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9691
 
 #EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://tele-libre.org/img/hbopop.webp" group-title="CINE",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9692
 
 #EXTINF:-1 tvg-id="HBOXtrema" tvg-logo="https://television-libre.online/img/hboxtreme.webp" group-title="CINE",HBO XREME HDTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9698
 
 #############################
 # CINE - UNIVERSAL
 #############################
 #EXTINF:-1 tvg-id="StudioUniversal" tvg-logo="https://tele-libre.org/img/studio.webp" group-title="CINE",Studio Universal
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9732
 
 #EXTINF:-1 tvg-id="UniversalChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/400px-Universal_Channel_2013.png" group-title="CINE",UNIVERSAL CHANNEL Latinoamerica
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9753
 
 #EXTINF:-1 tvg-id="UniversalCinema" tvg-logo="https://television-libre.online/img/universalcinema.webp" group-title="CINE",UNIVERSAL CINEMA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9757
 
 #EXTINF:-1 tvg-id="UniversalComedy" tvg-logo="https://television-libre.online/img/universalcomedy.webp" group-title="CINE",UNIVERSAL COMEDY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9760
 
 #EXTINF:-1 tvg-id="UniversalCrime" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="CINE",UNIVERSAL CRIME
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9761
 
 #EXTINF:-1 tvg-id="UniversalPremiere" tvg-logo="https://television-libre.online/img/universalpremiere.webp" group-title="CINE",UNIVERSAL PREMIERE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9766
 
 #EXTINF:-1 tvg-id="UniversalReality" tvg-logo="https://television-libre.online/img/universalreality.webp" group-title="CINE",UNIVERSAL REALITY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9771
 
 #############################
 # ENTRETENIMIENTO
 #############################
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://tele-libre.org/img/ae.webp" group-title="ENTRETENIMIENTO",A&E Latinoamerica
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9614
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://tele-libre.org/img/amc.webp" group-title="ENTRETENIMIENTO",AMCMXHD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9621
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://television-libre.online/img/axn.webp" group-title="ENTRETENIMIENTO",AXN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9622
 
 #EXTINF:-1 tvg-id="CineLatino" tvg-logo="" group-title="ENTRETENIMIENTO",CINE LATINO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9627
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://television-libre.online/img/cinecanal.webp" group-title="ENTRETENIMIENTO",CINECANAL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9629
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://television-libre.online/img/cinemax.webp" group-title="ENTRETENIMIENTO",CINEMAX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9629
 
 #EXTINF:-1 tvg-id="ComedyCentral" tvg-logo="https://television-libre.online/img/comedy.webp" group-title="ENTRETENIMIENTO",Comedy Central
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9636
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png" group-title="ENTRETENIMIENTO",DHE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9643
 
 #EXTINF:-1 tvg-id="DistritoComedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="ENTRETENIMIENTO",Distrito Comedia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9644
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://television-libre.online/img/id.webp" group-title="ENTRETENIMIENTO",ID HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9646
 
 #EXTINF:-1 tvg-id="FilmArts" group-title="ENTRETENIMIENTO",Film & Arts
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9649
 
 #EXTINF:-1 tvg-id="FoodNetwork" group-title="ENTRETENIMIENTO",FOOD NETWORK
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9651
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://tele-libre.org/img/fx.webp" group-title="ENTRETENIMIENTO",FX latino
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9653
 
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://tele-libre.org/img/golden.png" group-title="ENTRETENIMIENTO",Golden
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9657
 
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-logo="https://tele-libre.org/img/golden-edge.png" group-title="ENTRETENIMIENTO",GOLDEDG
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9658
 
 #EXTINF:-1 tvg-id="GoldenPlus" tvg-logo="" group-title="ENTRETENIMIENTO",GOLDEN PLUS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9661
 
 #EXTINF:-1 tvg-id="GoldenPlus2" tvg-logo="" group-title="ENTRETENIMIENTO",GOLDEN PLUS2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9662
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/Paramount%2B.png/revision/latest?cb=20220726031153&path-prefix=es" group-title="ENTRETENIMIENTO",PARAMNT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9707
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY CHANNEL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9711
 
 #EXTINF:-1 tvg-id="SonyMovies" tvg-logo="https://tele-libre.org/img/sonymovies.webp" group-title="ENTRETENIMIENTO",SONY CINE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9713
 
 #EXTINF:-1 tvg-id="SonyComedias" tvg-logo="https://tele-libre.org/img/sonymovies.webp" group-title="ENTRETENIMIENTO",SONY COMEDIAS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9714
 
 #EXTINF:-1 tvg-id="SonyNovelas" tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png?itok=IlkFVN4E" group-title="ENTRETENIMIENTO",Sony Novelas
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9716
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",Space
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9717
 
 #EXTINF:-1 tvg-id="Star" tvg-logo="https://television-libre.online/img/star.webp" group-title="ENTRETENIMIENTO",STAR latinoamerica
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9723
 
 #EXTINF:-1 tvg-id="StarChannel" tvg-shift="-4" group-title="ENTRETENIMIENTO",STAR CHANNEL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9724
 
 #EXTINF:-1 tvg-id="Starz" tvg-shift="-4" group-title="ENTRETENIMIENTO",STARZ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9727
 
 #EXTINF:-1 tvg-id="StarEncore" tvg-shift="-4" group-title="ENTRETENIMIENTO",STAR Encore
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9724
 
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="ENTRETENIMIENTO",SYFY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9735
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="ENTRETENIMIENTO",TNT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9743
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ENTRETENIMIENTO",TNT Novelas
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9747
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",TNT SERIES
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9751
 
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="ENTRETENIMIENTO",Warner Latinoamérica HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9774
 
 #############################
 # DOCUMENTALES
 #############################
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://tele-libre.org/img/aplanet.webp" group-title="DOCUMENTALES",Animal Planet HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9812
 
 #EXTINF:-1 tvg-id="DiscoveryFamilia" tvg-logo="" group-title="DOCUMENTALES",Discovery familia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9783
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://television-libre.online/img/discovery.webp" group-title="DOCUMENTALES",Discovery Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9815
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth" tvg-logo="https://tele-libre.org/img/hyh.webp" group-title="DOCUMENTALES",Discovery Home & Health Latinoamerica HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9821
 
 #EXTINF:-1 tvg-id="DiscoveryScience" tvg-shift="-4" group-title="DOCUMENTALES",Discovery Science
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9786
 
 #EXTINF:-1 tvg-id="DiscoveryTheater" tvg-logo="https://tele-libre.org/img/distheater.webp" group-title="DOCUMENTALES",Discovery Theater HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9787
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-shift="-4" group-title="DOCUMENTALES",Discovery Turbo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9830
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-logo="https://television-libre.online/img/disworld.webp" group-title="DOCUMENTALES",Discovery World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9790
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="DOCUMENTALES",HISTORY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9838
 
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTALES",H2LAHD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9798
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://television-libre.online/img/natgeo.webp" group-title="DOCUMENTALES",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9805
 
 #EXTINF:-1 tvg-id="TLC" tvg-shift="-4" group-title="DOCUMENTALES",TLC LATINOAMERICA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
 
 #############################
 # INFANTILES
 #############################
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES",Cartoon Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9858
 
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://tele-libre.org/img/diskids.webp" group-title="INFANTILES",Discovery Kids
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9862
 
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="INFANTILES",Disney Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9866
 
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://tele-libre.org/img/disneyjr.webp" group-title="INFANTILES",Disney junior Latinoamérica
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9868
 
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",Nick Jr
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9875
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",Nickelodeon
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9873
 
 #############################
 # NOTICIAS
 #############################
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="NOTICIAS",Telemundo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8336
 
 #EXTINF:-1 tvg-id="Unicable" tvg-logo="https://tele-libre.org/img/unicable.webp" group-title="NOTICIAS",UNICABLE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8382
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://tele-libre.org/img/univision.png" group-title="NOTICIAS",Univision
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8400
 
 #############################
 # DEPORTES
 #############################
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTES",TUDN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9603
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://television-libre.online/img/foxsports.png" group-title="DEPORTES",FOX SPORTS latinoamerica HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9579
 
 #EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://television-libre.online/img/foxsports2.png" group-title="DEPORTES",Fox Sports 2 Latinoamérica HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9585
 
 #EXTINF:-1 tvg-id="FoxSports3" tvg-logo="https://television-libre.online/img/foxsports3.png" group-title="DEPORTES",Fox Sports 3 Latinoamérica HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9592
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9524
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9531
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9535
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9537
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9539
 
 #EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 6
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9541
 
 #EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9573
 
 #EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Premium
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9548
 
 #EXTINF:-1 tvg-id="ClaroSports" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="DEPORTES",Claro Sports
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9556
 
 #EXTINF:-1 tvg-id="DirectvSportPlus" group-title="DEPORTES",Directv Sport +
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9558
 
 #EXTINF:-1 tvg-id="DirectvSport1" group-title="DEPORTES",Directv Sport 1 AR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9560
 
 #EXTINF:-1 tvg-id="DAZN1" group-title="DEPORTES",DAZN 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103707
 
 #EXTINF:-1 tvg-id="DAZN2" group-title="DEPORTES",DAZN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103710
 
 #EXTINF:-1 tvg-id="DAZN3" group-title="DEPORTES",DAZN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103711
 
 #EXTINF:-1 tvg-id="DAZN4" group-title="DEPORTES",DAZN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103712
